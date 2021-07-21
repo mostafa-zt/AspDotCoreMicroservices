@@ -1,0 +1,15 @@
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.deps.json
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.dll
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\ref\Ordering.Application.dll
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.pdb
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.dll
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.pdb
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csprojAssemblyReference.cache
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfoInputs.cache
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfo.cs
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CopyComplete
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
+D:\Projects\AspDotNetCoreMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb

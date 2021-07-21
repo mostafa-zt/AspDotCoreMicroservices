@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj": {}
+    "D:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj": {
+    "D:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+        "projectUniqueName": "D:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
         "projectName": "Discount.API",
-        "projectPath": "d:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+        "projectPath": "D:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\obj\\",
+        "outputPath": "D:\\Projects\\AspDotNetCoreMicroservices\\src\\Services\\Discount\\Discount.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,6 +24,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
